@@ -1,2 +1,2 @@
-# -alculator
+# Calculator
 Сalculator with interface
